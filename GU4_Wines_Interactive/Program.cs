@@ -39,10 +39,10 @@ class Program
 /* Exercises
 1. Modify code in Main() so the interaction with a user becomes menu driven
     1 - Give the winecellar a name
-    2 - Add one random wine bottle to the winecellar
-    3 - Show the value of the winecellar
-    4 - Show the hi and lo cost wines
-    5 - List with winecellar
+    2 - List with winecellar
+    3 - Add one random wine bottle to the winecellar
+    4 - Show the value of the winecellar
+    5 - Show the hi and lo cost wines
     6 - Remove all the wines from the winecellar
     Q - Quit program
 
