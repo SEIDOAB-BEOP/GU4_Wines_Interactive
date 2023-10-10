@@ -1,0 +1,12 @@
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/bin/Debug/net7.0/Helpers.deps.json
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/bin/Debug/net7.0/Helpers.dll
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/bin/Debug/net7.0/Helpers.pdb
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/Helpers.csproj.AssemblyReference.cache
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/Helpers.AssemblyInfoInputs.cache
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/Helpers.AssemblyInfo.cs
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/Helpers.csproj.CoreCompileInputs.cache
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/Helpers.dll
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/refint/Helpers.dll
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/Helpers.pdb
+/Users/Martin/Development/Projects/GU4_Wines_Interactive/Helpers/obj/Debug/net7.0/ref/Helpers.dll
