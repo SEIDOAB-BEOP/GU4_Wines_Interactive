@@ -1,5 +1,6 @@
 ﻿
-using Helpers;
+using Seido.Utilities.SeedGenerator;
+using Seido.Utilities.ConsoleInput;
 namespace _05_Wines_Interfaces;
 
 class Program

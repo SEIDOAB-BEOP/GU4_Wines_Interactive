@@ -1,4 +1,6 @@
 ﻿using System;
+using Seido.Utilities.SeedGenerator;
+
 namespace _05_Wines_Interfaces
 {
     public class WineCellar
